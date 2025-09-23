@@ -1,1 +1,10 @@
-<?php header('Content-Type: text/css'); echo file_get_contents('https://raw.githubusercontent.com/Giranmpm/YTRANSBLOX/main# YTRANSBLOX
+# YTRANSBLOX - Aplikasi Transaksi Terbaik
+Selamat datang di YTRANSBLOX, solusi transaksi modern dan cepat!
+
+## Fitur Utama
+- Transaksi aman dan cepat
+- Antarmuka pengguna yang intuitif
+- Dukungan multi-platform
+
+## Tentang Proyek
+YTRANSBLOX adalah aplikasi untuk mempermudah transaksi harian Anda.
